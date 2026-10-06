@@ -1,5 +1,4 @@
 
-````markdown
 <img src="https://komarev.com/ghpvc/?username=TusharDale&label=Profile%20Views" />
 
 <h1 align="center">
