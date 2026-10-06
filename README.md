@@ -1,6 +1,3 @@
-Absolutely. I’ve updated the GitHub profile README to align with your **Tushar Dale resume**, rather than the current Vipul Sontakke content. I’ve kept the focus on your strongest areas: **AWS Cloud Engineering, Data Engineering, AWS Administration, DevOps, ETL, migration, monitoring, security, and cost optimization**. 
-
-I also removed claims from the old README that aren't supported by your resume, such as 30+ AWS accounts, 60% cost reduction, Power BI, multiple AWS governance projects, and certifications not listed on your resume.
 
 ````markdown
 <img src="https://komarev.com/ghpvc/?username=TusharDale&label=Profile%20Views" />
